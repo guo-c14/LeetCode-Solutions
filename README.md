@@ -4,6 +4,7 @@ LeetCode Solutions.
 
 ## Linked List
 
+- [2. Add Two Numbers【两数相加】](Linked%20List/2.md)`Medium`
 - [19. Remove Nth Node From End of List【删除链表的倒数第N个节点】](Linked%20List/19.md)`Medium`
 - [21. Merge Two Sorted Lists【合并两个有序链表】](Linked%20List/21.md)`Easy`
 - [141. Linked List Cycle【环形链表】](Linked%20List/141.md)`Easy`
