@@ -10,3 +10,4 @@ LeetCode Solutions.
 - [160. Intersection of Two Linked Lists【相交链表】](Linked%20List/160.md)`Easy`
 - [203. Remove Linked List Elements【删除链表中的节点】](Linked%20List/203.md)`Easy`
 - [206. Reverse Linked List【反转链表】](Linked%20List/206.md)`Easy`
+- [328. Odd Even Linked List【奇偶链表】](Linked%20List/328.md)`Medium`
