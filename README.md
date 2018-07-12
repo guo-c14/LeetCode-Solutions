@@ -9,6 +9,7 @@ LeetCode Solutions.
 - [21. Merge Two Sorted Lists【合并两个有序链表】](Linked%20List/21.md)`Easy`
 - [24. Swap Nodes in Pairs【两两交换链表中的节点】](Linked%20List/24.md)`Medium`
 - [61. Rotate List【旋转链表】](Linked%20List/61.md)`Medium`
+- [82. Remove Duplicates from Sorted List II【删除排序链表中的重复元素 II】](Linked%20List/82.md)`Medium`
 - [83. Remove Duplicates from Sorted List【删除排序链表中的重复元素】](Linked%20List/83.md)`Easy`
 - [138. Copy List with Random Pointer【复制带随机指针的链表】](Linked%20List/138.md)`Medium`
 - [141. Linked List Cycle【环形链表】](Linked%20List/141.md)`Easy`
