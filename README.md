@@ -12,6 +12,7 @@ LeetCode Solutions.
 - [82. Remove Duplicates from Sorted List II【删除排序链表中的重复元素 II】](Linked%20List/82.md)`Medium`
 - [83. Remove Duplicates from Sorted List【删除排序链表中的重复元素】](Linked%20List/83.md)`Easy`
 - [86. Partition List【分隔链表】](Linked%20List/86.md)`Medium`
+- [92. Reverse Linked List II【反转链表 II】](Linked%20List/92.md)`Medium`
 - [138. Copy List with Random Pointer【复制带随机指针的链表】](Linked%20List/138.md)`Medium`
 - [141. Linked List Cycle【环形链表】](Linked%20List/141.md)`Easy`
 - [142. Linked List Cycle II【环形链表 II】](Linked%20List/142.md)`Medium`
